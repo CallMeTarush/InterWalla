@@ -1,0 +1,20 @@
+.tab {
+    border-top: solid;
+    border-bottom: solid;
+    border-left:solid;
+    padding: 2% 0;
+    margin-bottom: 2%;
+    cursor: pointer;
+}
+.active {
+    background: #eee;
+}
+.tab:nth-child(2) {
+    border-right:solid;
+}
+.login-form {
+    background: #ddd;
+    padding: 0;
+    padding-bottom: 2%;
+}
+

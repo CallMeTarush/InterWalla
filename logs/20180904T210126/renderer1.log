@@ -1,0 +1,37 @@
+[2018-09-04 22:58:47.088] [renderer1] [info] no standard startup: not just one text editor
+[2018-09-04 22:58:47.118] [renderer1] [error] connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock: Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 22:58:49.955] [renderer1] [error] Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 22:58:50.007] [renderer1] [error] connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock: Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 23:03:49.956] [renderer1] [error] Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 23:08:49.957] [renderer1] [error] Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 23:13:49.958] [renderer1] [error] Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 23:18:49.959] [renderer1] [error] Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 23:23:49.960] [renderer1] [error] Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)
+[2018-09-04 23:28:49.961] [renderer1] [error] Error: connect ENOENT /opt/lampp/htdocs/internshala/1.26.1-shared.sock
+    at Object._errnoException (util.js:1024:11)
+    at _exceptionWithHostPort (util.js:1046:20)
+    at PipeConnectWrap.afterConnect [as oncomplete] (net.js:1182:14)

@@ -1,0 +1,18 @@
+[2018-09-05 11:59:55.297] [exthost1] [info] extension host started
+[2018-09-05 11:59:55.320] [exthost1] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2018-09-05 11:59:55.320] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/out/extension
+[2018-09-05 11:59:55.332] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-05 11:59:55.332] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-09-05 11:59:55.376] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-05 11:59:55.376] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-09-05 11:59:55.490] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-05 11:59:55.490] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-09-05 11:59:55.501] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-05 11:59:55.501] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/search-rg/out/extension
+[2018-09-05 11:59:55.510] [exthost1] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"activationEvent":"onLanguage:php"}
+[2018-09-05 11:59:55.510] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/php-language-features/out/phpMain
+[2018-09-05 11:59:55.528] [exthost1] [info] ExtensionService#_doActivateExtension felixfbecker.php-intellisense {"startup":false,"activationEvent":"onLanguage:php"}
+[2018-09-05 11:59:55.528] [exthost1] [info] ExtensionService#loadCommonJSModule /home/tarush/.vscode/extensions/felixfbecker.php-intellisense-2.3.5/out/extension
+[2018-09-05 11:59:55.807] [exthost1] [info] eager extensions activated
+[2018-09-05 12:05:41.787] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-09-05 12:05:41.787] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/out/cssMain

@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    background: #f8f8f8;
+}
+.navbar-default {
+    background: white;
+    padding: 0 20%;
+    height: 100px;
+}
+.navbar-brand {
+    padding: 0;
+    height: 98px;
+}
+.nav-a {
+    height: 100px;
+    line-height: 100px !important;
+    padding: 0 0 0 20px!important;
+
+}
